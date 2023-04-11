@@ -1,0 +1,11 @@
+E:\прог\4 курс\Олежа\Декоратор\Декоратор\bin\Debug\Декоратор.exe.config
+E:\прог\4 курс\Олежа\Декоратор\Декоратор\bin\Debug\Декоратор.exe
+E:\прог\4 курс\Олежа\Декоратор\Декоратор\bin\Debug\Декоратор.pdb
+E:\прог\4 курс\Олежа\Декоратор\Декоратор\obj\Debug\Декоратор.csproj.AssemblyReference.cache
+E:\прог\4 курс\Олежа\Декоратор\Декоратор\obj\Debug\Декоратор.csproj.SuggestedBindingRedirects.cache
+E:\прог\4 курс\Олежа\Декоратор\Декоратор\obj\Debug\Декоратор.Form1.resources
+E:\прог\4 курс\Олежа\Декоратор\Декоратор\obj\Debug\Декоратор.Properties.Resources.resources
+E:\прог\4 курс\Олежа\Декоратор\Декоратор\obj\Debug\Декоратор.csproj.GenerateResource.cache
+E:\прог\4 курс\Олежа\Декоратор\Декоратор\obj\Debug\Декоратор.csproj.CoreCompileInputs.cache
+E:\прог\4 курс\Олежа\Декоратор\Декоратор\obj\Debug\Декоратор.exe
+E:\прог\4 курс\Олежа\Декоратор\Декоратор\obj\Debug\Декоратор.pdb
